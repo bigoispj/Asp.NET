@@ -45,7 +45,7 @@ Make sure you have the following installed:
 
 ## How to Run the Projects
 
-1. Clone this repository: `git clone https://github.com/your-username/WebForms-MVC-Showcase.git`
+1. Clone this repository: `git clone https://github.com/bigoispj/Asp.NET/WebForms-MVC-Showcase.git`
 2. Open the desired project in Visual Studio.
 3. Run the project by pressing F5 or choosing "Start Debugging" in Visual Studio.
 
