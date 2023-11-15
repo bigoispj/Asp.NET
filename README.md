@@ -55,4 +55,4 @@ Contributions are welcome! Feel free to open issues, suggest improvements, or su
 
 ## License
 
-This project is licensed under the [MIT License](https://mit-license.org/).
+This project is licensed under the [MIT License](https://mit-license.org).
